@@ -3,3 +3,6 @@ merhaba :)
 Nasılsın ?
 
 Güncelleme 03.01.2023
+
+
+Sadece 1 git dosyasını push etmek istiyorum.
