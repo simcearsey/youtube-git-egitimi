@@ -9,3 +9,5 @@ Sadece 1 git dosyasını push etmek istiyorum.
 
 Yeni bir branch oluşturuldu.
 05_01_2023 yeni mesaj eklendi.
+
+pull request ogrenmek icin
